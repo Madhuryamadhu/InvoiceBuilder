@@ -251,7 +251,7 @@
    }
    
    function goBack(){
-	   window.location = "formPage.jsp";
+	   window.location = "index.jsp";
    }
    
    </script>
